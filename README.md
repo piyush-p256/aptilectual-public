@@ -120,10 +120,7 @@ aptitude_platform/
 └── README.md
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Note
 
-This is a private repository. If you wish to view the code, please contact me at [piyushpatel2562004@gmail.com](mailto:piyushpatel2562004@gmail.com).
+This is a private repository. If you are a recruiter and wish to view the code, please contact me at [piyushpatel2562004@gmail.com](mailto:piyushpatel2562004@gmail.com).
