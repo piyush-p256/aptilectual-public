@@ -1,6 +1,6 @@
 # Aptilectual
 
-Aptilectual is a Django web application designed to help users practice and improve their aptitude skills by solving daily problems. Features include user registration, login, solving daily problems, viewing leaderboards, and reviewing past problems.
+Aptilectual is a Django web application designed to help users practice and improve their aptitude skills by solving daily problems. Features include user registration, login, solving daily problems, viewing leaderboards, and reviewing past problems. The original repository is private. This repository is for recruiters who wish to see the live website. If you'd like to view the source code, please contact me.
 
 ## Table of Contents
 
